@@ -1,3 +1,3 @@
 # URL Scheme Wiki
 Wikiメインです｡  
-WikiへGo!
+Wikiへ[Go!](https://github.com/yeswasi/URLScheme/wiki)
