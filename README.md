@@ -2,4 +2,7 @@
 Wikiメインです｡  
 Wikiへ[Go!](https://github.com/yeswasi/URLScheme/wiki)
 # Code
-Codeはいろいろあります(コピペ用)
+Codeはいろいろあります
+# Issue
+Issueは質問するところです。
+どんどんどうぞ。
