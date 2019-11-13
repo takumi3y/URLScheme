@@ -12,3 +12,6 @@ HTML
 <a href="example://">Appを開く</a>
 ```
 としましょう。
+
+example:  
+[Apple Music](music://)
